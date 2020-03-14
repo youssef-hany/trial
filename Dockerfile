@@ -7,7 +7,7 @@ RUN dotnet restore
 
 # Copying everything else and build
 COPY . ./
-RUN dotnet publish -c Release -o out
+RUN dotnet publish Redux.sln -c Release -o out
 
 # Build runtime image
 FROM microsoft/dotnet:2.2-aspnetcore-runtime
