@@ -1,0 +1,907 @@
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.DealSkillDamage()
+   at Redux.Managers.CombatManager.DealSkill()
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.LaunchAttack()
+   at Redux.Managers.CombatManager.ProcessAttack(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.DealSkillDamage()
+   at Redux.Managers.CombatManager.DealSkill()
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.LaunchAttack()
+   at Redux.Managers.CombatManager.ProcessAttack(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.EquipmentManager.EquipItem(ConquerItem item, Byte location, Boolean updateClient)
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 999
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 218
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 206
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 106
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 999
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 218
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 206
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 106
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 1000
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 218
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 206
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 106
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 981
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.get_Life()
+   at Redux.Game_Server.Player.Disconnect(Boolean save)
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 981
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 973
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 979
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 993
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 993
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 993
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 993
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 993
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 993
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 92
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 993
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 977
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 219
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 207
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 107
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: klmljk
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.LaunchSectorSkill()
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.String.get_Chars(Int32 index)
+   at Redux.Game_Server.GameServer.Process_TalkPacket(Player client, TalkPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 828
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: asasa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 733
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: asasa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.CreateDBItem(UInt32 _staticID, ItemLocation location, Byte _plus, Byte _bless, Byte _enchant, Byte _gem1, Byte _gem2, Boolean _locked, Byte _effect) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 1053
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 792
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: asasa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: asasa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 756
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: asasa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 774
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: asasa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.get_Life() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 241
+   at Redux.Game_Server.Player.Disconnect(Boolean save) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 1931
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 308
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.get_Life() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 241
+   at Redux.Game_Server.Player.Disconnect(Boolean save) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 1931
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 308
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.get_Life() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 241
+   at Redux.Game_Server.Player.Disconnect(Boolean save) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 1931
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 308
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 902
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 902
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 902
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 929
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 929
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 929
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character)
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID()
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 902
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 902
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 902
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 902
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 902
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 915
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 915
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character)
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID()
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.AutoEquip(ConquerItem item, UInt32 id)
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.AutoEquip(ConquerItem item, UInt32 id)
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.AutoEquip(ConquerItem item, UInt32 id)
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.AutoEquip(ConquerItem item, UInt32 id)
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Maze
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.AutoEquip(ConquerItem item, UInt32 id)
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Davina
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character)
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Davina
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID()
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: Davina
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 977
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: Davina
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: daaa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 977
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: daaa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: daaa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 857
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: daaa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: daaa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 857
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: daaa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: daaa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 857
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: daaa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Entity.get_MapID() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Entity.cs:line 274
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 448
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: daass
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character)
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: daass
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 850
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: daass
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 850
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 326
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: daass
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.Populate(DbCharacter _character)
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.GameServer.Process_GeneralActionPacket(Player client, GeneralActionPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 637
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 145
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.AutoEquip(ConquerItem item, UInt32 id)
+   at Redux.Managers.CombatManager.TakeCosts(DbMagicType _magicType)
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 304
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.get_Life()
+   at Redux.Game_Server.Player.Disconnect(Boolean save)
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.get_Life() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 241
+   at Redux.Game_Server.Player.Disconnect(Boolean save) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 2002
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 308
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.get_Life() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 241
+   at Redux.Game_Server.Player.Disconnect(Boolean save) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 2002
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 308
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.get_Life() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 241
+   at Redux.Game_Server.Player.Disconnect(Boolean save) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 2002
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 308
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 144
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.get_Life()
+   at Redux.Game_Server.Player.Disconnect(Boolean save)
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.get_Life()
+   at Redux.Game_Server.Player.Disconnect(Boolean save)
+   at Redux.Game_Server.GameServer.OnDisconnect(NetworkClient client)
+   at Redux.Network.NetworkServer.InvokeOnDisconnect(NetworkClient client)
+   at Redux.Network.NetworkClient.Disconnect()
+   at Redux.Game_Server.Player.Disconnect(Boolean save)
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: NONE
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Player.get_Life()
+   at Redux.Game_Server.Player.Disconnect(Boolean save)
+   at Redux.Game_Server.GameServer.Process_MsgConnectPacket(Player client, ConnectPacket packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: [GM]XinC
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Redux.Game_Server.Player.ChangeMap(UInt16 _id, UInt16 _x, UInt16 _y) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 1694
+   at Redux.Commands.Process_Map(Player client, String[] command) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Commands.cs:line 323
+   at Redux.Commands.Handle(Player client, String[] command) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Commands.cs:line 21
+   at Redux.Game_Server.GameServer.Process_TalkPacket(Player client, TalkPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 208
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 148
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Redux.Game_Server.Player.ChangeMap(UInt16 _id, UInt16 _x, UInt16 _y) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Player.cs:line 1694
+   at Redux.Commands.Process_Map(Player client, String[] command) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Commands.cs:line 323
+   at Redux.Commands.Handle(Player client, String[] command) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Commands.cs:line 21
+   at Redux.Game_Server.GameServer.Process_TalkPacket(Player client, TalkPacket packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 208
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 148
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+NHibernate.Exceptions.GenericADOException: could not execute native bulk manipulation query:INSERT INTO tasks(`Owner`, Count,`Condition`) VALUES(0,0)[SQL: INSERT INTO tasks(`Owner`, Count,`Condition`) VALUES(0,0)] ---> MySql.Data.MySqlClient.MySqlException: Column count doesn't match value count at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteNonQuery(IDbCommand cmd) in d:\CSharp\NH\nhibernate\src\NHibernate\AdoNet\AbstractBatcher.cs:line 216
+   at NHibernate.Engine.Query.NativeSQLQueryPlan.PerformExecuteUpdate(QueryParameters queryParameters, ISessionImplementor session) in d:\CSharp\NH\nhibernate\src\NHibernate\Engine\Query\NativeSQLQueryPlan.cs:line 106
+   --- End of inner exception stack trace ---
+   at NHibernate.Engine.Query.NativeSQLQueryPlan.PerformExecuteUpdate(QueryParameters queryParameters, ISessionImplementor session) in d:\CSharp\NH\nhibernate\src\NHibernate\Engine\Query\NativeSQLQueryPlan.cs:line 122
+   at NHibernate.Impl.SessionImpl.ExecuteNativeUpdate(NativeSQLQuerySpecification nativeQuerySpecification, QueryParameters queryParameters) in d:\CSharp\NH\nhibernate\src\NHibernate\Impl\SessionImpl.cs:line 2674
+   at NHibernate.Impl.SqlQueryImpl.ExecuteUpdate() in d:\CSharp\NH\nhibernate\src\NHibernate\Impl\SqlQueryImpl.cs:line 307
+   at Redux.Database.Repositories.TaskRepository.CreateEntry(UInt32 _UID, Int32 _count)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+NHibernate.Exceptions.GenericADOException: could not execute native bulk manipulation query:UPDATE Tasks SET Count=30 WHERE UID=1000016 AND Type=CloudSaint[SQL: UPDATE Tasks SET Count=30 WHERE UID=1000016 AND Type=CloudSaint] ---> MySql.Data.MySqlClient.MySqlException: Unknown column 'CloudSaint' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteNonQuery(IDbCommand cmd) in d:\CSharp\NH\nhibernate\src\NHibernate\AdoNet\AbstractBatcher.cs:line 216
+   at NHibernate.Engine.Query.NativeSQLQueryPlan.PerformExecuteUpdate(QueryParameters queryParameters, ISessionImplementor session) in d:\CSharp\NH\nhibernate\src\NHibernate\Engine\Query\NativeSQLQueryPlan.cs:line 106
+   --- End of inner exception stack trace ---
+   at NHibernate.Engine.Query.NativeSQLQueryPlan.PerformExecuteUpdate(QueryParameters queryParameters, ISessionImplementor session) in d:\CSharp\NH\nhibernate\src\NHibernate\Engine\Query\NativeSQLQueryPlan.cs:line 122
+   at NHibernate.Impl.SessionImpl.ExecuteNativeUpdate(NativeSQLQuerySpecification nativeQuerySpecification, QueryParameters queryParameters) in d:\CSharp\NH\nhibernate\src\NHibernate\Impl\SessionImpl.cs:line 2674
+   at NHibernate.Impl.SqlQueryImpl.ExecuteUpdate() in d:\CSharp\NH\nhibernate\src\NHibernate\Impl\SqlQueryImpl.cs:line 307
+   at Redux.Database.Repositories.TaskRepository.UpdateTask(Int32 _count, UInt32 _UID, TaskType _type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Database\Repositories\TaskRepository.cs:line 28
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 163
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+NHibernate.Exceptions.GenericADOException: could not execute native bulk manipulation query:UPDATE Tasks SET Count=30 WHERE Owner=1000016 AND Type=CloudSaint[SQL: UPDATE Tasks SET Count=30 WHERE Owner=1000016 AND Type=CloudSaint] ---> MySql.Data.MySqlClient.MySqlException: Unknown column 'CloudSaint' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteNonQuery(IDbCommand cmd) in d:\CSharp\NH\nhibernate\src\NHibernate\AdoNet\AbstractBatcher.cs:line 216
+   at NHibernate.Engine.Query.NativeSQLQueryPlan.PerformExecuteUpdate(QueryParameters queryParameters, ISessionImplementor session) in d:\CSharp\NH\nhibernate\src\NHibernate\Engine\Query\NativeSQLQueryPlan.cs:line 106
+   --- End of inner exception stack trace ---
+   at NHibernate.Engine.Query.NativeSQLQueryPlan.PerformExecuteUpdate(QueryParameters queryParameters, ISessionImplementor session) in d:\CSharp\NH\nhibernate\src\NHibernate\Engine\Query\NativeSQLQueryPlan.cs:line 122
+   at NHibernate.Impl.SessionImpl.ExecuteNativeUpdate(NativeSQLQuerySpecification nativeQuerySpecification, QueryParameters queryParameters) in d:\CSharp\NH\nhibernate\src\NHibernate\Impl\SessionImpl.cs:line 2674
+   at NHibernate.Impl.SqlQueryImpl.ExecuteUpdate() in d:\CSharp\NH\nhibernate\src\NHibernate\Impl\SqlQueryImpl.cs:line 307
+   at Redux.Database.Repositories.TaskRepository.UpdateTask(Int32 _count, UInt32 _UID, TaskType _type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Database\Repositories\TaskRepository.cs:line 28
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 163
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+NHibernate.Exceptions.GenericADOException: could not execute native bulk manipulation query:UPDATE `redux`.`tasks` SET `Count` = 30 WHERE `Owner` = 1000016 AND `Type` = CloudSaint[SQL: UPDATE `redux`.`tasks` SET `Count` = 30 WHERE `Owner` = 1000016 AND `Type` = CloudSaint] ---> MySql.Data.MySqlClient.MySqlException: Unknown column 'CloudSaint' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteNonQuery(IDbCommand cmd) in d:\CSharp\NH\nhibernate\src\NHibernate\AdoNet\AbstractBatcher.cs:line 216
+   at NHibernate.Engine.Query.NativeSQLQueryPlan.PerformExecuteUpdate(QueryParameters queryParameters, ISessionImplementor session) in d:\CSharp\NH\nhibernate\src\NHibernate\Engine\Query\NativeSQLQueryPlan.cs:line 106
+   --- End of inner exception stack trace ---
+   at NHibernate.Engine.Query.NativeSQLQueryPlan.PerformExecuteUpdate(QueryParameters queryParameters, ISessionImplementor session) in d:\CSharp\NH\nhibernate\src\NHibernate\Engine\Query\NativeSQLQueryPlan.cs:line 122
+   at NHibernate.Impl.SessionImpl.ExecuteNativeUpdate(NativeSQLQuerySpecification nativeQuerySpecification, QueryParameters queryParameters) in d:\CSharp\NH\nhibernate\src\NHibernate\Impl\SessionImpl.cs:line 2674
+   at NHibernate.Impl.SqlQueryImpl.ExecuteUpdate() in d:\CSharp\NH\nhibernate\src\NHibernate\Impl\SqlQueryImpl.cs:line 307
+   at Redux.Database.Repositories.TaskRepository.UpdateTask(Int32 _count, UInt32 _UID, TaskType _type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Database\Repositories\TaskRepository.cs:line 28
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 163
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+NHibernate.Exceptions.GenericADOException: could not execute native bulk manipulation query:UPDATE `redux`.`tasks` SET `Count` = 30 WHERE `Owner` = 1000016 AND `Type` = CloudSaint[SQL: UPDATE `redux`.`tasks` SET `Count` = 30 WHERE `Owner` = 1000016 AND `Type` = CloudSaint] ---> MySql.Data.MySqlClient.MySqlException: Unknown column 'CloudSaint' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteNonQuery(IDbCommand cmd) in d:\CSharp\NH\nhibernate\src\NHibernate\AdoNet\AbstractBatcher.cs:line 216
+   at NHibernate.Engine.Query.NativeSQLQueryPlan.PerformExecuteUpdate(QueryParameters queryParameters, ISessionImplementor session) in d:\CSharp\NH\nhibernate\src\NHibernate\Engine\Query\NativeSQLQueryPlan.cs:line 106
+   --- End of inner exception stack trace ---
+   at NHibernate.Engine.Query.NativeSQLQueryPlan.PerformExecuteUpdate(QueryParameters queryParameters, ISessionImplementor session) in d:\CSharp\NH\nhibernate\src\NHibernate\Engine\Query\NativeSQLQueryPlan.cs:line 122
+   at NHibernate.Impl.SessionImpl.ExecuteNativeUpdate(NativeSQLQuerySpecification nativeQuerySpecification, QueryParameters queryParameters) in d:\CSharp\NH\nhibernate\src\NHibernate\Impl\SessionImpl.cs:line 2674
+   at NHibernate.Impl.SqlQueryImpl.ExecuteUpdate() in d:\CSharp\NH\nhibernate\src\NHibernate\Impl\SqlQueryImpl.cs:line 307
+   at Redux.Database.Repositories.TaskRepository.UpdateTask(Int32 _count, UInt32 _UID, TaskType _type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Database\Repositories\TaskRepository.cs:line 28
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 163
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Monster.Kill(UInt32 _dieType, UInt32 _attacker) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Monster.cs:line 153
+   at Redux.Managers.CombatManager.DealSkillDamage() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 775
+   at Redux.Managers.CombatManager.DealSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 693
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 298
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 237
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 108
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 165
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Monster.Kill(UInt32 _dieType, UInt32 _attacker) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Monster.cs:line 153
+   at Redux.Managers.CombatManager.DealSkillDamage() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 775
+   at Redux.Managers.CombatManager.DealSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 693
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 298
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 237
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 108
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Monster.Kill(UInt32 _dieType, UInt32 _attacker) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Monster.cs:line 153
+   at Redux.Managers.CombatManager.DealSkillDamage() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 775
+   at Redux.Managers.CombatManager.DealSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 693
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 298
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 237
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 108
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Redux.Game_Server.Monster.Kill(UInt32 _dieType, UInt32 _attacker) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Monster.cs:line 153
+   at Redux.Managers.CombatManager.DealSkillDamage() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 775
+   at Redux.Managers.CombatManager.DealSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 693
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 298
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 237
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 108
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.InvalidCastException: Unable to cast object of type 'Redux.Game_Server.Monster' to type 'Redux.Game_Server.Player'.
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.Monster.Kill(UInt32 _dieType, UInt32 _attacker)
+   at Redux.Managers.CombatManager.DealSkillDamage()
+   at Redux.Managers.CombatManager.DealSkill()
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.InvalidCastException: Unable to cast object of type 'Redux.Game_Server.Monster' to type 'Redux.Game_Server.Player'.
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 154
+   at Redux.Game_Server.Monster.Kill(UInt32 _dieType, UInt32 _attacker) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Monster.cs:line 162
+   at Redux.Managers.CombatManager.DealSkillDamage() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 775
+   at Redux.Managers.CombatManager.DealSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 693
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 298
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 237
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 108
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.InvalidCastException: Unable to cast object of type 'Redux.Game_Server.Monster' to type 'Redux.Game_Server.Player'.
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 154
+   at Redux.Game_Server.Monster.Kill(UInt32 _dieType, UInt32 _attacker) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Monster.cs:line 162
+   at Redux.Managers.CombatManager.DealSkillDamage() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 775
+   at Redux.Managers.CombatManager.DealSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 693
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 298
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 237
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 108
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.InvalidCastException: Unable to cast object of type 'Redux.Game_Server.Monster' to type 'Redux.Game_Server.Player'.
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 154
+   at Redux.Game_Server.Monster.Kill(UInt32 _dieType, UInt32 _attacker) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Objects\Monster.cs:line 162
+   at Redux.Managers.CombatManager.DealSkillDamage() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 775
+   at Redux.Managers.CombatManager.DealSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 693
+   at Redux.Managers.CombatManager.LaunchSkill() in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 298
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 237
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Managers\CombatManager.cs:line 108
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 150
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer) in C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\Network\GameServer.cs:line 102
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.InvalidCastException: Unable to cast object of type 'Redux.Game_Server.Monster' to type 'Redux.Game_Server.Player'.
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.Monster.Kill(UInt32 _dieType, UInt32 _attacker)
+   at Redux.Managers.CombatManager.DealSkillDamage()
+   at Redux.Managers.CombatManager.DealSkill()
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)
+ERROR PROCESSING PACKET FOR USER: [GM]Odin
+System.InvalidCastException: Unable to cast object of type 'Redux.Game_Server.Monster' to type 'Redux.Game_Server.Player'.
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.Monster.Kill(UInt32 _dieType, UInt32 _attacker)
+   at Redux.Managers.CombatManager.DealSkillDamage()
+   at Redux.Managers.CombatManager.DealSkill()
+   at Redux.Managers.CombatManager.LaunchSkill()
+   at Redux.Managers.CombatManager.ProcessSkill(InteractPacket _packet)
+   at Redux.Managers.CombatManager.ProcessInteractionPacket(InteractPacket _packet)
+   at Redux.Game_Server.GameServer.ProcessPacket(Player client, Byte* ptr, Byte[] safePacket, UInt16 type)
+   at Redux.Game_Server.GameServer.OnReceive(NetworkClient client, Byte[] buffer)

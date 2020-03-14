@@ -1,0 +1,100 @@
+#region Gates
+                            case 516074:
+                                {
+                                    if (client.Guild != null)
+                                    {
+                                        if (client.Guild.PoleKeeper)
+                                        {
+                                            switch (npcRequest.OptionID)
+                                            {
+                                                case 0:
+                                                    dialog.****("What do you want to do now?.");
+                                                    if (client.AsMember.Rank != Conquer_Online_Server.Game.Enums.GuildMemberRank.Member)
+                                                    {
+                                                        dialog.Option("Open the Gate.", 1);
+                                                        dialog.Option("Close the Gate.", 2);
+                                                    }
+                                                    dialog.Option("Teleport me inside.", 3);
+                                                    dialog.Option("No thanks.", 255);
+                                                    dialog.Send();
+                                                    break;
+                                                case 1:
+                                                    {
+                                                        Conquer_Online_Server.Game.GuildWar.LeftGate.Mesh = (ushort)(250 + Conquer_Online_Server.Game.GuildWar.LeftGate.Mesh % 10);
+
+                                                        Update upd = new Update(true);
+                                                        upd.UID = Conquer_Online_Server.Game.GuildWar.LeftGate.UID;
+                                                        upd.Append(Update.Mesh, Conquer_Online_Server.Game.GuildWar.LeftGate.Mesh);
+                                                        client.SendScreen(upd, true);
+                                                        break;
+                                                    }
+                                                case 2:
+                                                    {
+                                                        Conquer_Online_Server.Game.GuildWar.LeftGate.Mesh = (ushort)(240 + Conquer_Online_Server.Game.GuildWar.LeftGate.Mesh % 10);
+
+                                                        Update upd = new Update(true);
+                                                        upd.UID = Conquer_Online_Server.Game.GuildWar.LeftGate.UID;
+                                                        upd.Append(Update.Mesh, Conquer_Online_Server.Game.GuildWar.LeftGate.Mesh);
+                                                        client.SendScreen(upd, true);
+                                                        break;
+                                                    }
+                                                case 3:
+                                                    {
+                                                        client.Entity.Teleport(1038, 162, 198);
+                                                        break;
+                                                    }
+                                            }
+                                        }
+                                    }
+                                    break;
+                                }
+                            case 516075:
+                                {
+                                    if (client.Guild != null)
+                                    {
+                                        if (client.Guild.PoleKeeper)
+                                        {
+                                            switch (npcRequest.OptionID)
+                                            {
+                                                case 0:
+                                                    dialog.****("Select the LinkID you want to pursue.");
+                                                    if (client.AsMember.Rank != Conquer_Online_Server.Game.Enums.GuildMemberRank.Member)
+                                                    {
+                                                        //dialog.Link("Open the Gate.", 1);
+                                                        //dialog.Link("Close the Gate.", 2);
+                                                    }
+                                                    dialog.Option("Teleport me inside.", 3);
+                                                    dialog.Option("No thanks.", 255);
+                                                    dialog.Send();
+                                                    break;
+                                                case 1:
+                                                    {
+                                                        Conquer_Online_Server.Game.GuildWar.RightGate.Mesh = (ushort)(280 + Conquer_Online_Server.Game.GuildWar.RightGate.Mesh % 10);
+
+                                                        Update upd = new Update(true);
+                                                        upd.UID = Conquer_Online_Server.Game.GuildWar.RightGate.UID;
+                                                        upd.Append(Update.Mesh, Conquer_Online_Server.Game.GuildWar.RightGate.Mesh);
+                                                        client.SendScreen(upd, true);
+                                                        break;
+                                                    }
+                                                case 2:
+                                                    {
+                                                        Conquer_Online_Server.Game.GuildWar.RightGate.Mesh = (ushort)(270 + Conquer_Online_Server.Game.GuildWar.RightGate.Mesh % 10);
+
+                                                        Update upd = new Update(true);
+                                                        upd.UID = Conquer_Online_Server.Game.GuildWar.RightGate.UID;
+                                                        upd.Append(Update.Mesh, Conquer_Online_Server.Game.GuildWar.RightGate.Mesh);
+                                                        client.SendScreen(upd, true);
+                                                        break;
+                                                    }
+                                                case 3:
+                                                    {
+                                                        client.Entity.Teleport(1038, 210, 177);
+                                                        break;
+                                                    }
+                                            }
+                                        }
+                                    }
+                                    break;
+                                }
+                            #endregion

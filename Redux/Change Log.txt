@@ -1,0 +1,34 @@
+DATE			CHANGE INFORMATION														STATUS					EDITOR
+------------	--------------------------------------------------------------------	-------------------		------------------
+2013 09-23		Updated the solution file for Visual Studio 2012.						Completed				Fang
+2013 09-23		Associates Added (friend/enemy - Please execute associates sql file)	Completed				Basser
+2013 09-23		Variable Server Configs Added (add .ini file for your machine name)		Completed				Basser
+2013 09-23		Corrected issue with equipping arrows.									Completed				Pro4Never
+2013 09-23		Added observe equipment													Completed				Pro4Never
+2013 09-23		Added StringsPacket handler (todo: add whisper info)					Completed				Pro4Never
+2013 09-23		Added Friend Chat														Completed				Pro4Never
+
+-------------------------------------------------------END OF V2.4 RELEASE--------------------------------------------------------
+
+2013 09-24		Added items (Hair dyes and skill books) and re-organized				Completed				Basser
+2013 09-24		More skill functionality (incl. Skill ID enum)							Completed				Basser
+2013 09-25		Super Gem Effects and more NPCs,										Completed				Aceking
+2013 09-25		Added PK points to player class(only variable,no functions)				Completed				Aceking
+2013 09-24		Fixed issue with wands. Now drop and can be equipped					Completed				Pro4Never
+2013 09-24		Added Meteor and DragonBall Upgrades (TC)								Completed				Pro4Never
+2013 09-24		Added Repair Items														Completed				Pro4Never
+2013 09-24		Added variable socket rate to constants.cs								Completed				Pro4Never
+2013 09-24		Added Compose Packet, NPC and Handling									Completed				Pro4Never
+2013 09-25		Added Warehouses (View/Add/Remove/Save/Load)							Completed				Pro4Never
+2013 09-25		Added Warehouse Money (View/Add/Remove/Save/Load)						Completed				Pro4Never
+2013 09-25		Added IsGlobal value to NPCs. Npc must be visible or IsGlobal			Completed				Pro4Never
+2013 09-26		Silver based shops must be on screen to buy items						Completed				Pro4Never
+2013 09-26		Updated npc table (backup included)										Completed				Pro4Never
+2013 09-26		Updated character table (backup included)								Completed				Pro4Never
+
+-------------------------------------------------------END OF V2.5 RELEASE--------------------------------------------------------
+2013 09-28		Skill books check requirements for the matched skill					Completed				Basser
+2013 09-30		Added in PK Points (map types not properly set in DB yet)				Completed				Aceking
+2013 10-01		Cleaned up a bit (unused 'usings', proper accessors)					Completed				Basser
+2013 10-01		Basic team functinaly													Completed				Basser/Pro4Never(?)
+2013 10-04 		Added in blue name for PK. Minor changes to PK						Completed				Aceking

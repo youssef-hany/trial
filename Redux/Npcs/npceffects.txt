@@ -1,0 +1,24 @@
+LuckDiffuse
+dispels
+flying (fyling flowers around you)
+foot01
+foot02 (YingYang icon on the ground)
+foot03
+2NDMetempsychosis (second reborn vigor)
+curse
+attackup1
+zf2-e067
+zf2-e128
+zf2-e129
+zf2-e181
+zf2-e192
+zf2-e215
+zf2-e233
+zf2-e234
+zf2-e235
+zf2-e236
+zf2-e240
+zf2-e248
+zf2-e295
+zf2-e300
+zf2-e355

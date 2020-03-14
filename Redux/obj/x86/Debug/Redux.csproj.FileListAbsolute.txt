@@ -1,0 +1,244 @@
+D:\HDD BACKUP\Programming\Redux v2\Redux\bin\Debug\Redux.exe.config
+D:\HDD BACKUP\Programming\Redux v2\Redux\obj\x86\Debug\Redux.exe
+D:\HDD BACKUP\Programming\Redux v2\Redux\obj\x86\Debug\Redux.pdb
+D:\HDD BACKUP\Programming\Redux v2\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+D:\HDD BACKUP\Programming\Redux v2\Redux\obj\x86\Debug\Redux.ControlForm.resources
+D:\HDD BACKUP\Programming\Redux v2\Redux\obj\x86\Debug\Redux.Properties.Resources.resources
+D:\HDD BACKUP\Programming\Redux v2\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+D:\HDD BACKUP\Programming\Redux v2\Redux\bin\Debug\Redux.exe
+D:\HDD BACKUP\Programming\Redux v2\Redux\bin\Debug\Redux.pdb
+D:\HDD BACKUP\Programming\Redux v2\Redux\bin\Debug\Iesi.Collections.dll
+D:\HDD BACKUP\Programming\Redux v2\Redux\bin\Debug\Remotion.Data.Linq.dll
+D:\HDD BACKUP\Programming\Redux v2\Redux\bin\Debug\SevenZipSharp.dll
+D:\HDD BACKUP\Programming\Redux v2\Redux\bin\Debug\NHibernate.pdb
+D:\HDD BACKUP\Programming\Redux v2\Redux\bin\Debug\NHibernate.xml
+D:\HDD BACKUP\Programming\Redux v2\Redux\bin\Debug\TinyMap.pdb
+D:\HDD BACKUP\Programming\Redux v2\Redux\bin\Debug\Iesi.Collections.pdb
+D:\HDD BACKUP\Programming\Redux v2\Redux\bin\Debug\Iesi.Collections.xml
+C:\Users\Chris\Dropbox\Redux\Redux\obj\x86\Debug\Redux.exe
+C:\Users\Chris\Dropbox\Redux\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\Chris\Dropbox\Redux\Redux\bin\Debug\Redux.exe
+C:\Users\Chris\Dropbox\Redux\Redux\bin\Debug\Redux.pdb
+C:\Users\Chris\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.dll
+C:\Users\Chris\Dropbox\Redux\Redux\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Chris\Dropbox\Redux\Redux\bin\Debug\SevenZipSharp.dll
+C:\Users\Chris\Dropbox\Redux\Redux\bin\Debug\NHibernate.pdb
+C:\Users\Chris\Dropbox\Redux\Redux\bin\Debug\NHibernate.xml
+C:\Users\Chris\Dropbox\Redux\Redux\bin\Debug\TinyMap.pdb
+C:\Users\Chris\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Users\Chris\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.xml
+C:\Users\Chris\Dropbox\Redux\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\Redux\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Users\Chris\Dropbox\Redux\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+D:\Users\Bas\Dropbox\Redux (1)\Redux\obj\x86\Debug\Redux.exe
+D:\Users\Bas\Dropbox\Redux (1)\Redux\obj\x86\Debug\Redux.pdb
+D:\Users\Bas\Dropbox\Redux (1)\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+D:\Users\Bas\Dropbox\Redux (1)\Redux\obj\x86\Debug\Redux.ControlForm.resources
+D:\Users\Bas\Dropbox\Redux (1)\Redux\obj\x86\Debug\Redux.Properties.Resources.resources
+D:\Users\Bas\Dropbox\Redux (1)\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+D:\Users\Bas\Dropbox\Redux (1)\Redux\bin\Debug\Redux.exe
+D:\Users\Bas\Dropbox\Redux (1)\Redux\bin\Debug\Redux.pdb
+D:\Users\Bas\Dropbox\Redux (1)\Redux\bin\Debug\Iesi.Collections.dll
+D:\Users\Bas\Dropbox\Redux (1)\Redux\bin\Debug\Remotion.Data.Linq.dll
+D:\Users\Bas\Dropbox\Redux (1)\Redux\bin\Debug\SevenZipSharp.dll
+D:\Users\Bas\Dropbox\Redux (1)\Redux\bin\Debug\NHibernate.pdb
+D:\Users\Bas\Dropbox\Redux (1)\Redux\bin\Debug\NHibernate.xml
+D:\Users\Bas\Dropbox\Redux (1)\Redux\bin\Debug\TinyMap.pdb
+D:\Users\Bas\Dropbox\Redux (1)\Redux\bin\Debug\Iesi.Collections.pdb
+D:\Users\Bas\Dropbox\Redux (1)\Redux\bin\Debug\Iesi.Collections.xml
+D:\Users\Bas\Dropbox\Redux\Redux\obj\x86\Debug\Redux.exe
+D:\Users\Bas\Dropbox\Redux\Redux\obj\x86\Debug\Redux.pdb
+D:\Users\Bas\Dropbox\Redux\Redux\bin\Debug\Redux.exe
+D:\Users\Bas\Dropbox\Redux\Redux\bin\Debug\Redux.pdb
+D:\Users\Bas\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.dll
+D:\Users\Bas\Dropbox\Redux\Redux\bin\Debug\Remotion.Data.Linq.dll
+D:\Users\Bas\Dropbox\Redux\Redux\bin\Debug\SevenZipSharp.dll
+D:\Users\Bas\Dropbox\Redux\Redux\bin\Debug\NHibernate.pdb
+D:\Users\Bas\Dropbox\Redux\Redux\bin\Debug\NHibernate.xml
+D:\Users\Bas\Dropbox\Redux\Redux\bin\Debug\TinyMap.pdb
+D:\Users\Bas\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.pdb
+D:\Users\Bas\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.xml
+D:\Users\Bas\Dropbox\Redux\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+D:\Users\Bas\Dropbox\Redux\Redux\obj\x86\Debug\Redux.ControlForm.resources
+D:\Users\Bas\Dropbox\Redux\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+K:\Dropbox\Redux\Redux\obj\x86\Debug\Redux.exe
+K:\Dropbox\Redux\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\BioHazardxPaul\Dropbox\Redux\Redux\obj\x86\Debug\Redux.exe
+C:\Users\BioHazardxPaul\Dropbox\Redux\Redux\obj\x86\Debug\Redux.pdb
+D:\Users\Bas\Dropbox\Redux\Redux\bin\Debug\Redux.exe.config
+C:\Users\Chris\Dropbox\Redux\Redux\bin\Debug\Redux.exe.config
+C:\Users\Mike\Dropbox\Redux\Redux\bin\Debug\Redux.exe.config
+C:\Users\Mike\Dropbox\Redux\Redux\obj\x86\Debug\Redux.exe
+C:\Users\Mike\Dropbox\Redux\Redux\obj\x86\Debug\Redux.pdb
+K:\Dropbox\Redux\Redux\bin\Debug\Redux.exe.config
+C:\Users\Mike\Downloads\Test\Redux OS\Redux\bin\Debug\Redux.exe.config
+C:\Users\Mike\Downloads\Test\Redux OS\Redux\obj\x86\Debug\Redux.exe
+C:\Users\Mike\Downloads\Test\Redux OS\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\Mike\Downloads\Test\Redux OS\Redux\bin\Debug\Redux.exe
+C:\Users\Mike\Downloads\Test\Redux OS\Redux\bin\Debug\Redux.pdb
+C:\Users\Mike\Downloads\Test\Redux OS\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Users\Mike\Downloads\Test\Redux OS\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+C:\Users\Mike\Downloads\Test\Redux OS\Redux\bin\Debug\Iesi.Collections.dll
+C:\Users\Mike\Downloads\Test\Redux OS\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Users\Mike\Downloads\Test\Redux OS\Redux\bin\Debug\Iesi.Collections.xml
+C:\Users\Mike\Downloads\Test\Redux OS\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Redux OS\Redux\bin\Debug\Redux.exe.config
+C:\Users\Mike\Desktop\Redux OS\Redux\obj\x86\Debug\Redux.exe
+C:\Users\Mike\Desktop\Redux OS\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\Mike\Desktop\Redux OS\Redux\bin\Debug\Redux.exe
+C:\Users\Mike\Desktop\Redux OS\Redux\bin\Debug\Redux.pdb
+C:\Users\Mike\Desktop\Redux OS\Redux\bin\Debug\Iesi.Collections.dll
+C:\Users\Mike\Desktop\Redux OS\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Users\Mike\Desktop\Redux OS\Redux\bin\Debug\Iesi.Collections.xml
+C:\Users\Mike\Desktop\Redux OS\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Redux OS\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Users\Mike\Desktop\Redux OS\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+C:\Users\Chris\Dropbox\R Public\Redux\bin\Debug\Redux.exe.config
+C:\Users\Chris\Dropbox\R Public\Redux\obj\x86\Debug\Redux.exe
+C:\Users\Chris\Dropbox\R Public\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\Chris\Dropbox\R Public\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\R Public\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Users\Chris\Dropbox\R Public\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+C:\Users\Chris\Dropbox\R Public\Redux\bin\Debug\Redux.exe
+C:\Users\Chris\Dropbox\R Public\Redux\bin\Debug\Redux.pdb
+C:\Users\Chris\Dropbox\R Public\Redux\bin\Debug\Iesi.Collections.dll
+C:\Users\Chris\Dropbox\R Public\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Users\Chris\Dropbox\R Public\Redux\bin\Debug\Iesi.Collections.xml
+C:\Users\Chris\Dropbox\2.9 Candidate\Redux\bin\Debug\Redux.exe.config
+C:\Users\Chris\Dropbox\2.9 Candidate\Redux\obj\x86\Debug\Redux.exe
+C:\Users\Chris\Dropbox\2.9 Candidate\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\Mike\Downloads\Test\Redux 2.9\Redux\bin\Debug\Redux.exe.config
+C:\Users\Mike\Downloads\Test\Redux 2.9\Redux\obj\x86\Debug\Redux.exe
+C:\Users\Mike\Downloads\Test\Redux 2.9\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\bin\Debug\Redux.exe.config
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\obj\x86\Debug\Redux.exe
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\bin\Debug\Redux.exe.config
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\obj\x86\Debug\Redux.exe
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\bin\Debug\Redux.exe
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\bin\Debug\Redux.pdb
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\bin\Debug\Iesi.Collections.dll
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\bin\Debug\Iesi.Collections.xml
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\bin\Debug\Redux.exe
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\bin\Debug\Redux.pdb
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\bin\Debug\Iesi.Collections.dll
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\bin\Debug\Iesi.Collections.xml
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+C:\Users\Chris\Dropbox\2 (1).9 Candidate\Redux\obj\x86\Debug\Redux.ConfigCreatorForm.resources
+C:\Users\Mike\Dropbox\2.9 Candidate\Redux\obj\x86\Debug\Redux.ConfigCreatorForm.resources
+C:\Users\SEDAT\Dropbox\2.9 Candidate\Redux\bin\Debug\Redux.exe.config
+C:\Users\SEDAT\Dropbox\2.9 Candidate\Redux\obj\x86\Debug\Redux.exe
+C:\Users\SEDAT\Dropbox\2.9 Candidate\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\Chris\Dropbox\Redux\Redux\obj\x86\Debug\Redux.ConfigCreatorForm.resources
+C:\Users\SEDAT\Dropbox\Redux\Redux\bin\Debug\Redux.exe.config
+C:\Users\SEDAT\Dropbox\Redux\Redux\obj\x86\Debug\Redux.exe
+C:\Users\SEDAT\Dropbox\Redux\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\SEDAT\Dropbox\Redux\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+C:\Users\SEDAT\Dropbox\Redux\Redux\obj\x86\Debug\Redux.ConfigCreatorForm.resources
+C:\Users\SEDAT\Dropbox\Redux\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Users\SEDAT\Dropbox\Redux\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+C:\Users\SEDAT\Dropbox\Redux\Redux\bin\Debug\Redux.exe
+C:\Users\SEDAT\Dropbox\Redux\Redux\bin\Debug\Redux.pdb
+C:\Users\SEDAT\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.dll
+C:\Users\SEDAT\Dropbox\Redux\Redux\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\SEDAT\Dropbox\Redux\Redux\bin\Debug\SevenZipSharp.dll
+C:\Users\SEDAT\Dropbox\Redux\Redux\bin\Debug\NHibernate.pdb
+C:\Users\SEDAT\Dropbox\Redux\Redux\bin\Debug\NHibernate.xml
+C:\Users\SEDAT\Dropbox\Redux\Redux\bin\Debug\TinyMap.pdb
+C:\Users\SEDAT\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Users\SEDAT\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.xml
+C:\Users\Mike\Dropbox\Redux\Redux\bin\Debug\Redux.exe
+C:\Users\Mike\Dropbox\Redux\Redux\bin\Debug\Redux.pdb
+C:\Users\Mike\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.dll
+C:\Users\Mike\Dropbox\Redux\Redux\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Mike\Dropbox\Redux\Redux\bin\Debug\SevenZipSharp.dll
+C:\Users\Mike\Dropbox\Redux\Redux\bin\Debug\NHibernate.pdb
+C:\Users\Mike\Dropbox\Redux\Redux\bin\Debug\NHibernate.xml
+C:\Users\Mike\Dropbox\Redux\Redux\bin\Debug\TinyMap.pdb
+C:\Users\Mike\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Users\Mike\Dropbox\Redux\Redux\bin\Debug\Iesi.Collections.xml
+C:\Users\Mike\Dropbox\Redux\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Dropbox\Redux\Redux\obj\x86\Debug\Redux.ConfigCreatorForm.resources
+C:\Users\Mike\Dropbox\Redux\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Users\Mike\Dropbox\Redux\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\bin\Debug\Redux.exe.config
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\obj\x86\Debug\Redux.exe
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\obj\x86\Debug\Redux.pdb
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\bin\Debug\Redux.exe
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\bin\Debug\Redux.pdb
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\bin\Debug\Iesi.Collections.dll
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\bin\Debug\SevenZipSharp.dll
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\bin\Debug\NHibernate.pdb
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\bin\Debug\NHibernate.xml
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\bin\Debug\TinyMap.pdb
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\bin\Debug\Iesi.Collections.xml
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\obj\x86\Debug\Redux.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\obj\x86\Debug\Redux.ConfigCreatorForm.resources
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Users\Chris\Dropbox\Redux Hosted\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.Cache
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\bin\Debug\Redux.exe.config
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\bin\Debug\Redux.exe
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\bin\Debug\Redux.pdb
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\bin\Debug\Iesi.Collections.dll
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\bin\Debug\Remotion.Data.Linq.dll
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\bin\Debug\SevenZipSharp.dll
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\bin\Debug\NHibernate.pdb
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\bin\Debug\NHibernate.xml
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\bin\Debug\TinyMap.pdb
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\bin\Debug\Iesi.Collections.xml
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\obj\x86\Debug\Redux.csprojAssemblyReference.cache
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\obj\x86\Debug\Redux.ConfigCreatorForm.resources
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.cache
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\obj\x86\Debug\Redux.csproj.CoreCompileInputs.cache
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\obj\x86\Debug\Redux.csproj.CopyComplete
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\obj\x86\Debug\Redux.exe
+C:\Games\conquer Serv\Serv 5095\WorkingSources\Redux\obj\x86\Debug\Redux.pdb
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\bin\Debug\Redux.exe.config
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\bin\Debug\Redux.exe
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\bin\Debug\Redux.pdb
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\bin\Debug\Iesi.Collections.dll
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\bin\Debug\Remotion.Data.Linq.dll
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\bin\Debug\SevenZipSharp.dll
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\bin\Debug\NHibernate.pdb
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\bin\Debug\NHibernate.xml
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\bin\Debug\TinyMap.pdb
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\bin\Debug\Iesi.Collections.xml
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\obj\x86\Debug\Redux.csprojAssemblyReference.cache
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\obj\x86\Debug\Redux.ConfigCreatorForm.resources
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.cache
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\obj\x86\Debug\Redux.csproj.CoreCompileInputs.cache
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\obj\x86\Debug\Redux.csproj.CopyComplete
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\obj\x86\Debug\Redux.exe
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking\Redux\obj\x86\Debug\Redux.pdb
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\obj\x86\Debug\Redux.csprojAssemblyReference.cache
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\obj\x86\Debug\Redux.ConfigCreatorForm.resources
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\obj\x86\Debug\Redux.ControlForm.resources
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\obj\x86\Debug\Redux.csproj.GenerateResource.cache
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\obj\x86\Debug\Redux.exe
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\obj\x86\Debug\Redux.pdb
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\bin\Debug\Redux.exe.config
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\bin\Debug\Redux.exe
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\bin\Debug\Redux.pdb
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\bin\Debug\Iesi.Collections.dll
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\bin\Debug\Remotion.Data.Linq.dll
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\bin\Debug\SevenZipSharp.dll
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\bin\Debug\NHibernate.pdb
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\bin\Debug\NHibernate.xml
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\bin\Debug\TinyMap.pdb
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\bin\Debug\Iesi.Collections.pdb
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\bin\Debug\Iesi.Collections.xml
+C:\Games\conquer Serv\Serv 5095\FinalWorkingGuardWorking - Copy\Redux\obj\x86\Debug\Redux.csproj.CopyComplete
