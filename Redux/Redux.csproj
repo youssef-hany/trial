@@ -479,6 +479,7 @@
     <Compile Include="Utility\ThreadSafeRandom.cs" />
     <EmbeddedResource Include="ConfigCreatorForm.resx">
       <DependentUpon>ConfigCreatorForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="ControlForm.resx">
       <DependentUpon>ControlForm.cs</DependentUpon>
